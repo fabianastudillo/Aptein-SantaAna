@@ -6,7 +6,7 @@ sidebar_position: 1
 
 |   Alcance  | Zona de Intervención |   Instituciones Participantes   |
 |:----------:|:--------------------:|:-------------------------------:|
-| Parroquial |        Rural         | <ul><li>&#8226; UdeCuenca/Facultad de Ingeniería  <ul><li>&#8226; GAD Parroquial Santa Ana </li></ul>|
+| Parroquial |        Rural         | <ul><li>&#8226; UdeCuenca/Facultad de Ingeniería </li><li>&#8226; GAD Parroquial Santa Ana </li></ul>|
 
 
 
