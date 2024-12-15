@@ -1,1 +1,8 @@
-
+{
+  "label": "Afiche - Canva",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Contenidos de la Plantilla de Vinvulación"
+  }
+}
