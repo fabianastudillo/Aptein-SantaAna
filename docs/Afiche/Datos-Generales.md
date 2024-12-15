@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Datos Generales
+# 1. Datos Generales
 
 |   Alcance  | Zona de Intervención |   Instituciones Participantes   |
 |:----------:|:--------------------:|:-------------------------------:|
@@ -51,7 +51,7 @@ sidebar_position: 1
 | Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento |   Eje_Transición_Ecológica   |
 
 
-# Justificación
+# 2. Justificación
 
 <div style="text-align: justify;">
 La parroquia rural Santa Ana, ubicada en el Cantón Cuenca de la provincia del Azuay, administra sus recursos hídricos y toma medidas frente al cambio climático. Sin embargo, la escasez de fuentes de agua ha generado problemas persistentes en el suministro de agua potable y la imposibilidad de contar con sistemas de riego. Con una población de 7027 habitantes (censo 2022), el servicio de agua potable y saneamiento es gestionado por la empresa ETAPA EP, mientras que el GAD parroquial es responsable de proteger las áreas de recarga hídrica.
