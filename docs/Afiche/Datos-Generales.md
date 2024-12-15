@@ -6,14 +6,14 @@ sidebar_position: 1
 
 |   Alcance  | Zona de Intervención |   Instituciones Participantes   |
 |:----------:|:--------------------:|:-------------------------------:|
-| Parroquial |        Rural         | - UdeCuenca/Facultad de Ingeniería  - GAD Parroquial Santa Ana |
+| Parroquial |        Rural         | - UdeCuenca/Facultad de Ingeniería <br/> - GAD Parroquial Santa Ana |
 
 
 
 
 |                  Área de conocimiento                  |                            Dominios                       | 
 |:------------------------------------------------------:|:---------------------------------------------------------:|
-| - Ingenierías_Tecnologías_Arquitectura_y_Agropecuarias - Carrera Principal:  Ingeniería Civil | Energía, Medio Ambiente, Recursos Naturales y Biotecnicos |
+| - Ingenierías_Tecnologías_Arquitectura_y_Agropecuarias <br/> - Carrera Principal:  Ingeniería Civil | Energía, Medio Ambiente, Recursos Naturales y Biotecnicos |
 
 
 
@@ -25,7 +25,7 @@ sidebar_position: 1
 
 |                    Beneficiarios Directos               |  Estudiantes participantes | 
 |:------------------------------------------------------:|:-------------------------------------:|
-|7027 personas (juntas de riego y juntas de agua potable) | - Ingeniería Civil - Telecomunicaciones |
+|7027 personas (juntas de riego y juntas de agua potable) | - Ingeniería Civil <br/> - Telecomunicaciones |
 
 
 
@@ -42,7 +42,7 @@ sidebar_position: 1
 
 |             Origen de los fondos            |     Valor        |   Total    |
 |:-------------------------------:|:------------------:|:--------:|
-| - Presupuesto Aporte Universidad Valorado  (Horas por Docente Totales) - Presupuesto Aporte Universidad (Asignación Presupuestaria)  - Presupuesto Contraparte/Comunidad Beneficiada | - $19,695.12 -$11,100.00 - $0.00 | $ 30,795.12 |
+| - Presupuesto Aporte Universidad Valorado  (Horas por Docente Totales) <br/> - Presupuesto Aporte Universidad (Asignación Presupuestaria) <br/> - Presupuesto Contraparte/Comunidad Beneficiada | - $19,695.12 <br/> -$11,100.00 <br/> - $0.00 | $ 30,795.12 |
 
 
 | Metas  | Ejes | 
