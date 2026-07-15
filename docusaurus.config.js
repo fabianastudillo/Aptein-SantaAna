@@ -128,7 +128,7 @@ const config = {
             items: [
               {
                 label: 'Facultad de Ingeniería',
-                href: 'https://www.ucuenca.edu.ec/ingenieria/',
+                href: 'https://www.ucuenca.edu.ec/facultad/ingenieria/',
               },
               {
                 label: 'Vinculación con la Sociedad',
