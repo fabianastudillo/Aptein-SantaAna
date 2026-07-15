@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
+sidebar_label: Datos Generales
 ---
 
 # 1. Datos Generales
