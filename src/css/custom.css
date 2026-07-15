@@ -1,30 +1,90 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Estilos globales — Identidad de marca Universidad de Cuenca (UCuenca)
+ * Kit de marca 2026. Cromática: Azul (UCBLUE) 80%, Gris 10%, Rojo 10%.
+ * Tipografía: Alegreya Sans (sustituto libre de FF Meta Pro) + Alegreya (serif).
  */
 
-/* You can override the default Infima variables here. */
+/* ==== Paleta institucional ==== */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ucuenca-blue: #002856;      /* UCBLUE — RGB 0,40,86 */
+  --ucuenca-red: #a51008;       /* Rojo — RGB 165,16,8 */
+  --ucuenca-gray: #6f6f6f;      /* Gris — RGB 111,111,111 */
+  --ucuenca-gray-light: #dadada;/* Gris claro — RGB 218,218,218 */
+
+  /* Color primario (azul institucional) y su escala */
+  --ifm-color-primary: #002856;
+  --ifm-color-primary-dark: #00244d;
+  --ifm-color-primary-darker: #002147;
+  --ifm-color-primary-darkest: #001a38;
+  --ifm-color-primary-light: #002d61;
+  --ifm-color-primary-lighter: #003066;
+  --ifm-color-primary-lightest: #003775;
+
+  /* Tipografía */
+  --ifm-font-family-base: 'Alegreya Sans', system-ui, -apple-system,
+    'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --ifm-heading-font-family: 'Alegreya Sans', system-ui, sans-serif;
+  --ifm-heading-font-weight: 800;
+  --ucuenca-font-serif: 'Alegreya', Georgia, 'Times New Roman', serif;
+
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-link-color: var(--ucuenca-blue);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 40, 86, 0.12);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Paleta clara en modo oscuro para mantener contraste */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #5a99e2;
+  --ifm-color-primary-dark: #4189dd;
+  --ifm-color-primary-darker: #3581db;
+  --ifm-color-primary-darkest: #1e6bc4;
+  --ifm-color-primary-light: #73a9e7;
+  --ifm-color-primary-lighter: #7fb1e9;
+  --ifm-color-primary-lightest: #a3c7ef;
+
+  --ifm-link-color: #7fb1e9;
+  --docusaurus-highlighted-code-line-bg: rgba(90, 153, 226, 0.18);
+}
+
+/* ==== Navbar: fondo blanco, marca azul, acento rojo (línea de marca) ==== */
+.navbar {
+  border-bottom: 3px solid var(--ucuenca-red);
+}
+.navbar__title {
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  color: var(--ucuenca-blue);
+}
+[data-theme='dark'] .navbar__title {
+  color: var(--ifm-navbar-link-color);
+}
+
+/* ==== Footer: fondo azul institucional ==== */
+.footer--dark {
+  --ifm-footer-background-color: var(--ucuenca-blue);
+  --ifm-footer-color: #e9eef4;
+  --ifm-footer-link-color: #cdd9e6;
+  --ifm-footer-title-color: #ffffff;
+}
+.footer--dark .footer__link-item:hover {
+  color: #ffffff;
+}
+
+/* ==== Botones ==== */
+.button--secondary {
+  --ifm-button-background-color: #ffffff;
+  --ifm-button-color: var(--ucuenca-blue);
+  border-color: var(--ucuenca-blue);
+}
+
+/* ==== Slogan / subtítulo del hero en serif institucional ==== */
+.hero__subtitle {
+  font-family: var(--ucuenca-font-serif);
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+/* Título del hero usa el azul sobre fondo claro cuando aplica */
+.hero--primary {
+  --ifm-hero-text-color: #ffffff;
 }

@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Aptein-Santa Ana',
-  tagline: 'Proyecto de Vinculación',
-  favicon: 'img/favicon.ico',
+  tagline: 'La U que vive la vinculación',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://fabianastudillo.github.io/',
@@ -24,7 +24,12 @@ const config = {
   projectName: 'Aptein-SantaAna', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -33,6 +38,26 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  // Tipografía institucional UCuenca:
+  // Alegreya Sans (sustituto libre de FF Meta Pro) + Alegreya (serif del slogan).
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://fonts.gstatic.com',
+        crossorigin: 'anonymous',
+      },
+    },
+  ],
+  stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Alegreya+Sans:wght@400;500;700;800&display=swap',
+  ],
 
   presets: [
     [
@@ -68,7 +93,7 @@ const config = {
       navbar: {
         title: 'Aptein-Santa Ana',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'UCuenca',
           src: 'img/logo.svg',
         },
         items: [
@@ -129,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Universidad de Cuenca · La U que vive la vinculación. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
