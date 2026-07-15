@@ -50,4 +50,4 @@ Aplicar tecnología innovadora para un adecuado monitoreo de las variables hidro
 
 ---
 
-Consulta los [**Datos Generales**](/docs/Afiche/Datos-Generales) y los [**Objetivos y Resultados**](/docs/Afiche/Objetivos) para el detalle completo de la propuesta.
+Consulta los [**Datos Generales**](/docs/Datos-Generales) y los [**Objetivos y Resultados**](/docs/Objetivos) para el detalle completo de la propuesta.
