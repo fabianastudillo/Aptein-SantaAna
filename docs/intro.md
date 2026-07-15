@@ -32,22 +32,4 @@ Proyecto de **Vinculación con la Sociedad** de la **Facultad de Ingeniería de 
 | Diego Esteban Mora Serrano | Ingeniería Civil | Director/a |
 | Darwin Fabián Astudillo Salinas | Telecomunicaciones | Docente |
 
-## Objetivo general
-
-Aplicar tecnología innovadora para un adecuado monitoreo de las variables hidro-meteorológicas en la parroquia de Santa Ana — cantón Cuenca.
-
-## Objetivos específicos
-
-1. **Monitoreo convencional** — Identificación de la ubicación e instalación de equipos de monitoreo hidro-meteorológico convencionales.
-2. **Banco de pruebas LoRaWAN** — Implementación de un banco de pruebas en laboratorio con las estaciones hidro-meteorológicas del PROMAS con tecnología LoRaWAN en el campus Balzay.
-3. **Tecnología inalámbrica in situ** — Aplicación de tecnología inalámbrica LoRaWAN en los equipos de monitoreo hidro-meteorológico instalados en el área de estudio.
-
-## Alineación estratégica
-
-- **ODS 6** — Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos (Meta 6.b: fortalecer la participación de las comunidades locales en la gestión del agua y el saneamiento).
-- **Plan de Creación de Oportunidades 2021–2025** — Eje de Transición Ecológica (O11: conservar, restaurar, proteger y hacer un uso sostenible de los recursos naturales).
-- **Dominio académico** — Energía, Medio Ambiente, Recursos Naturales y Biotecnología.
-
----
-
 Consulta los [**Datos Generales**](/docs/Datos-Generales) y los [**Objetivos y Resultados**](/docs/Objetivos) para el detalle completo de la propuesta.
