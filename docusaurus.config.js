@@ -67,17 +67,10 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/fabianastudillo/Aptein-SantaAna/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -103,9 +96,8 @@ const config = {
             position: 'left',
             label: 'Documentación',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/fabianastudillo/Aptein-SantaAna',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,41 +107,41 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentación',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Presentación del proyecto',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Datos Generales',
+                to: '/docs/Datos-Generales',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Objetivos',
+                to: '/docs/Objetivos',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Universidad de Cuenca',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Facultad de Ingeniería',
+                href: 'https://www.ucuenca.edu.ec/ingenieria/',
               },
+              {
+                label: 'Vinculación con la Sociedad',
+                href: 'https://www.ucuenca.edu.ec/vinculacion/',
+              },
+            ],
+          },
+          {
+            title: 'Más',
+            items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/fabianastudillo/Aptein-SantaAna',
               },
             ],
           },
