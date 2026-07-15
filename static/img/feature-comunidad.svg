@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none"
+     stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"
+     role="img" aria-label="Vinculación con la comunidad y gestión del agua">
+  <!-- gota de agua -->
+  <path d="M100 34 C100 34 150 92 150 128 a50 50 0 0 1 -100 0 C50 92 100 34 100 34 Z"/>
+  <!-- comunidad: dos personas -->
+  <circle cx="84" cy="118" r="10" fill="currentColor" stroke="none"/>
+  <circle cx="116" cy="118" r="10" fill="currentColor" stroke="none"/>
+  <path d="M68 150 a16 16 0 0 1 32 0"/>
+  <path d="M100 150 a16 16 0 0 1 32 0"/>
+  <!-- acento -->
+  <circle cx="100" cy="70" r="6" fill="#a51008" stroke="none"/>
+</svg>

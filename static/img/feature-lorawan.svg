@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none"
+     stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"
+     role="img" aria-label="Transmisión inalámbrica LoRaWAN">
+  <!-- nodo central -->
+  <circle cx="100" cy="100" r="11" fill="#a51008" stroke="none"/>
+  <!-- ondas derecha -->
+  <path d="M121 80 a30 30 0 0 1 0 40"/>
+  <path d="M136 65 a52 52 0 0 1 0 70"/>
+  <path d="M151 50 a74 74 0 0 1 0 100"/>
+  <!-- ondas izquierda -->
+  <path d="M79 80 a30 30 0 0 0 0 40"/>
+  <path d="M64 65 a52 52 0 0 0 0 70"/>
+  <path d="M49 50 a74 74 0 0 0 0 100"/>
+</svg>

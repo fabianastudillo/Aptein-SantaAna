@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Conoce el proyecto →
           </Link>
         </div>
       </div>
@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={siteConfig.title}
+      description="Aplicación de tecnologías inalámbricas para el monitoreo hidro-meteorológico en la parroquia rural de Santa Ana — Proyecto de Vinculación, Facultad de Ingeniería, Universidad de Cuenca.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Monitoreo hidro-meteorológico',
+    Svg: require('@site/static/img/feature-monitoreo.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Instalación y operación de estaciones para medir precipitación,
+        temperatura, radiación, humedad y caudal en la parroquia rural de
+        Santa Ana, cantón Cuenca.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Tecnología inalámbrica LoRaWAN',
+    Svg: require('@site/static/img/feature-lorawan.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Transmisión de datos en tiempo real mediante tecnología LoRaWAN e IoT
+        hacia la plataforma del PROMAS, validada en un banco de pruebas en el
+        campus Balzay.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Vinculación con la comunidad',
+    Svg: require('@site/static/img/feature-comunidad.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        En alianza con el GAD Parroquial de Santa Ana, beneficia a 7&nbsp;027
+        personas y fortalece la gestión sostenible del agua (ODS&nbsp;6).
       </>
     ),
   },

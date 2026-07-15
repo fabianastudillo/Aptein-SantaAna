@@ -1,47 +1,53 @@
 ---
-sidebar_position: 2
+sidebar_position: 0
+slug: /intro
 ---
 
-# Tutorial Intro
+# Presentación del proyecto
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Aplicación de tecnologías inalámbricas para el monitoreo hidro-meteorológico en la parroquia rural de Santa Ana
 
-## Getting Started
+Proyecto de **Vinculación con la Sociedad** de la **Facultad de Ingeniería de la Universidad de Cuenca**, orientado a implementar tecnología inalámbrica (**LoRaWAN / IoT**) para el monitoreo de las variables hidro-meteorológicas de la parroquia rural de Santa Ana, cantón Cuenca.
 
-Get started by **creating a new site**.
+> **Tipo de proyecto:** Resultado de Investigación
+> **Referencia:** Aplicación de Tecnologías Inalámbricas al monitoreo Climatológico en la cuenca del Río Paute — XIII Concurso VIUC
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Datos clave
 
-### What you'll need
+| | |
+|---|---|
+| **Facultad / Unidad** | Ingeniería — Universidad de Cuenca |
+| **Carreras participantes** | Ingeniería Civil (principal) · Telecomunicaciones |
+| **Dimensión** | Interdisciplinario (2 o más carreras de la misma Facultad) |
+| **Alcance / Zona** | Parroquial · Rural |
+| **Contraparte** | GAD Parroquial de Santa Ana |
+| **Beneficiarios directos** | 7 027 personas (juntas de riego y de agua potable) |
+| **Duración** | Marzo 2024 – Agosto 2025 (3 ciclos) |
+| **Presupuesto total** | USD 30 795,12 |
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Equipo docente
 
-## Generate a new site
+| Docente | Carrera | Rol |
+|---|---|---|
+| Diego Esteban Mora Serrano | Ingeniería Civil | Director/a |
+| Darwin Fabián Astudillo Salinas | Telecomunicaciones | Docente |
 
-Generate a new Docusaurus site using the **classic template**.
+## Objetivo general
 
-The classic template will automatically be added to your project after you run the command:
+Aplicar tecnología innovadora para un adecuado monitoreo de las variables hidro-meteorológicas en la parroquia de Santa Ana — cantón Cuenca.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Objetivos específicos
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+1. **Monitoreo convencional** — Identificación de la ubicación e instalación de equipos de monitoreo hidro-meteorológico convencionales.
+2. **Banco de pruebas LoRaWAN** — Implementación de un banco de pruebas en laboratorio con las estaciones hidro-meteorológicas del PROMAS con tecnología LoRaWAN en el campus Balzay.
+3. **Tecnología inalámbrica in situ** — Aplicación de tecnología inalámbrica LoRaWAN en los equipos de monitoreo hidro-meteorológico instalados en el área de estudio.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Alineación estratégica
 
-## Start your site
+- **ODS 6** — Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos (Meta 6.b: fortalecer la participación de las comunidades locales en la gestión del agua y el saneamiento).
+- **Plan de Creación de Oportunidades 2021–2025** — Eje de Transición Ecológica (O11: conservar, restaurar, proteger y hacer un uso sostenible de los recursos naturales).
+- **Dominio académico** — Energía, Medio Ambiente, Recursos Naturales y Biotecnología.
 
-Run the development server:
+---
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Consulta los [**Datos Generales**](/docs/Afiche/Datos-Generales) y los [**Objetivos y Resultados**](/docs/Afiche/Objetivos) para el detalle completo de la propuesta.

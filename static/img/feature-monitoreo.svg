@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none"
+     stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"
+     role="img" aria-label="Estación de monitoreo hidro-meteorológico">
+  <!-- suelo -->
+  <path d="M28 170 H172"/>
+  <!-- mástil -->
+  <path d="M100 62 V152"/>
+  <!-- trípode -->
+  <path d="M100 152 L72 170 M100 152 L128 170"/>
+  <!-- brazos del anemómetro -->
+  <path d="M74 62 H126"/>
+  <path d="M100 62 V50"/>
+  <!-- cazoletas -->
+  <circle cx="70" cy="62" r="8" fill="currentColor" stroke="none"/>
+  <circle cx="130" cy="62" r="8" fill="currentColor" stroke="none"/>
+  <circle cx="100" cy="46" r="8" fill="#a51008" stroke="none"/>
+  <!-- sensor -->
+  <rect x="85" y="92" width="30" height="24" rx="4"/>
+</svg>
